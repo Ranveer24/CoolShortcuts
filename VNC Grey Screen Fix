@@ -6,7 +6,7 @@ echo "Done"
 
 echo "Now Downloading The xstartup file, For That I Need An Active Internet Connection"
 apt-get install wget
-wget -O xtartup https://<Website>
+wget -O xtartup https://raw.githubusercontent.com/Ranveer24/CoolShortcuts/master/xstartup
 
 echo "Downloading Done"
 
